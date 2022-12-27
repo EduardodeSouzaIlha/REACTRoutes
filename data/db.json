@@ -1,0 +1,27 @@
+{
+
+    "products":[
+        {
+            "name": "teste",
+            "price": "2",
+            "id": "1"
+        },
+        {
+            "name": "teste1",
+            "price": "15",
+            "id": "2"
+        },
+        {
+            "name": "teste2",
+            "price": "3",
+            "id": "3"
+        },
+        {
+            "name": "teste3",
+            "price": "100",
+            "id": "4",
+            "img": "https://images.tcdn.com.br/img/img_prod/691184/teste_213_1_20200528133119.png"
+        }
+    ]
+    
+}
